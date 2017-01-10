@@ -10,9 +10,21 @@ h2 {
 
 p {
   font-family: sans-serif;
+  line-height: 1.25;
+}
+
+ol {
+  font-size: 20px;
+  line-height: 30ps;
+  color: green;
 }
 
 ul {
-  font-size: 20px:
+  font-size: 20px;
   line-height: 30ps;
+  color: red;
+}
+
+body {
+  background-color: yellow;
 }
